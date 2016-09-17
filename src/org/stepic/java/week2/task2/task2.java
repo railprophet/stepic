@@ -1,4 +1,4 @@
-package org.stepic.week2.task2;
+package org.stepic.java.week2.task2;
 import java.util.regex.*;
 
 /**
