@@ -1,4 +1,4 @@
-package org.stepic.java.week3.task1;
+package org.stepic.java.week3.lesson3.task12;
 
 /**
  * Created by Dmitry on 18.09.2016.

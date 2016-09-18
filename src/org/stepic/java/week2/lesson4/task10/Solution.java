@@ -1,10 +1,10 @@
-package org.stepic.java.week2.task2;
+package org.stepic.java.week2.lesson4.task10;
 import java.util.regex.*;
 
 /**
  * Created by Dmitry on 17.09.2016.
  */
-public class task2 {
+public class Solution {
 
 
     public static void main(String[] args) {
