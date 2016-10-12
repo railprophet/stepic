@@ -277,7 +277,7 @@ RealMailService. У UntrustworthyMailWorker должен быть констру
 
         thief.processMail(pkg);
 
-        Logger.getLogger("").log("asdasd {0},{1}", new Object[]{1,2});
+        //Logger.getLogger("").log("asdasd {0},{1}", new Object[]{1,2});
 
     }
 }
