@@ -1,11 +1,8 @@
 package org.stepic.java.week6.lesson2.task15;
 
-import java.io.BufferedInputStream;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.Reader;
+
 import java.util.*;
-import java.util.stream.*;
+
 
 /*
 Напишите программу, которая прочитает из System.in последовательность целых чисел, разделенных пробелами,
